@@ -11,3 +11,7 @@ Installed as a regular resource pack. After that the language menu will have the
 ![New Language Option In Menu](https://cdn.modrinth.com/data/cached_images/1b785f8b12457e086119c4d4cd77f3bdaef39629.jpeg)
 
 </details>
+
+## External Links
+[Modrinth](https://modrinth.com/resourcepack/armenian)  
+[CurseForge](https://www.curseforge.com/minecraft/texture-packs/better-armenian)
