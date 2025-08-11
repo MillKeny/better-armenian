@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": "§5Better §4Arm§1en§6ian §5Translation for Minecraft. §aBy BOXK"
+  },
+  "language": {
+	"hy_bx": {
+		"name": "Հայերեն",
+		"region": "ԲՈՂԿ",
+		"bidirectional": false
+	}
+  }
+}
