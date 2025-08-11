@@ -15,3 +15,6 @@ Installed as a regular resource pack. After that the language menu will have the
 ## External Links
 [Modrinth](https://modrinth.com/resourcepack/armenian)  
 [CurseForge](https://www.curseforge.com/minecraft/texture-packs/better-armenian)
+
+## Credits
+Thanks [@Maxim-ux-coder](https://github.com/Maxim-ux-coder) for helping with translations!
